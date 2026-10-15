@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'magnetdashmarvelchocolate',
   tip2Id: 'magnetdashmarveltaco',
-  tip1Label: '💛 Buy me a chocolate',
-  tip2Label: '💛 Buy me a taco',
+  tip1Label: '💛 Magnet Dash Marvel chocolate',
+  tip2Label: '💛 Magnet Dash Marvel taco',
 );
